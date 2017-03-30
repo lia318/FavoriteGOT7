@@ -22,6 +22,7 @@
         android:textSize="20sp" />
 
     <TextView
+        android:id="@+id/text_quest"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/msg_quest"
@@ -29,6 +30,7 @@
         android:visibility="invisible" />
 
     <RadioGroup
+        android:id="@+id/rg"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:visibility="invisible" >
@@ -62,7 +64,7 @@
         android:id="@+id/imgv_got7"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:src="@drawable/GOT7_JB"
+        android:src="@drawable/got7_jb"
         android:visibility="invisible"/>
 
 </LinearLayout>
