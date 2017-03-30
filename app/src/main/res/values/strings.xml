@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FavoriteGOT7</string>
+    <string name="msg_title">선택을 시작하시겠습니까?</string>
+    <string name="check_lbl">시작함</string>
+    <string name="msg_quest">좋아하는 GOT7 멤버는 누구입니까?</string>
+    <string name="got7_jb">GOT7 JB</string>
+    <string name="got7_jinyoung">GOT7 진영</string>
+    <string name="got7_youngjae">GOT7 영재</string>
+    <string name="but_lbl">선택 완료</string>
+</resources>
